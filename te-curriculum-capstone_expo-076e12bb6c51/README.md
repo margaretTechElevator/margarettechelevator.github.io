@@ -33,7 +33,7 @@ Alter SRC/Store/index.js to reference new file created in public/data/*.json
 Netify account has been created (credentials above)
 Mostly need to complete JSON file, change router reference, and deploy
 
-If you wish to record a HELP video, do so and store it in google drive and modify the MainTop.vue file (in the iFrame modify the src).
+**If you wish to record a HELP video, do so and store it in google drive and modify the MainTop.vue file (in the iFrame modify the src).**
 
 
 

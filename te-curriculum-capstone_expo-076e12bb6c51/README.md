@@ -18,8 +18,10 @@ Example is in NLRdata11.json  -- Each team needs its OWN zoom link.
 ### **Zoom Links**
 Each TE staff member can create 2 links that are allowed to run simultaneously.  Each staff member goes to Zoom.us and schedule 2 meetings (preferably no password or have it embedded).  Each meeting needs to be able to
 - share screens
+
 ![image of zoom screen sharing](Picture1.png) 
 - be started without the host present
+
 ![image of zoom advanced options](Picture2.png)
 
 I HIGHLY recommend you test this before hand to verify each team’s zoom link works (we test it at noon on the Thursday before capstones – all team members need to into the zoom and verify they can make it in and can share screens). 

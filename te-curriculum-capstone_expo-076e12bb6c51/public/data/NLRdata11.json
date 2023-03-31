@@ -1,0 +1,562 @@
+{
+  "location": "NLR11",
+  "version": "2.06",
+  "topTitleLine": "Final Capstone Expo  - National Live Remote",
+  "secondTitleLine": "Friday, February 10, 2023 2:00 PM - 3:30 PM EDT",
+  "mainVideo": "set in mainTop",
+  "randomMessage": "The teams shown below are in random order. Reloading or refreshing the page will change the order.",
+  "instructions": [
+    {
+      "line": "Please find all Capstone Project links by scrolling down the page"
+    },
+    {
+      "line": "You can review all of the Capstone Projects and access a live demo of each team's web application by clicking their 'Visit' link"
+    },
+    {
+      "line": "Each link will open in a new tab.  You may be prompted to 'Open Zoom meetings' - do so in order to access the zoom room where the demo will take place"
+    },
+    {
+      "line": "When you are done, end the meeting and close the tab to return to this page"
+    },
+    {
+      "line": "To access on your mobile device, in the window above, scroll down and select 'Launch in Web'"
+    },
+    {
+      "line": "If you are having issues, copy and paste this link into a browser tab -- https://meet.jit.si/nlr-capstone-help"
+    }
+  ],
+  "tipsHeading": "Capstone Etiquette",
+  "tips": [
+    {
+      "line": "Capstone teams will begin a new demo every 10-minutes (roughly)"
+    },
+    {
+      "line": "If you join in the middle of a demo, please introduce yourself via CHAT"
+    },
+    {
+      "line": "Turn your video ON and MUTE your audio when you're not speaking"
+    },
+    {
+      "line": "Capstone Teams appreciate questions/feedback so please engage during the demo"
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "NLR Climbing",
+      "project": "Climbing App",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "bgcolor": "#80ED9E",
+      "thumbnail": "climbit1.png",
+      "members": [
+        {
+          "member": "Kevin Aguirre",
+          "linkedIn": "https://www.linkedin.com/in/kaguirre29/"
+        },
+        {
+          "member": "Michael Eden",
+          "linkedIn": "https://www.linkedin.com/in/michael-alan-eden"
+        },
+        {
+          "member": "Allan Treat",
+          "linkedIn": "https://www.linkedin.com/in/allan-treat-33aa1b248/"
+        },
+        {
+          "member": "Jeff Winograd",
+          "linkedIn": "https://www.linkedin.com/in/jeff-l-winograd"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/92948059146"
+    },
+    {
+      "id": 2,
+      "name": "Team Read Tree",
+      "project": "Family Reading Tracker",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "thumbnail": "readtree2.png",
+      "bgcolor": "#7B98C3",
+      "members": [
+        {
+          "member": "Ada Safak",
+          "linkedIn": "https://www.linkedin.com/in/ada-safak/"
+        },
+        {
+          "member": "Grace Muniak",
+          "linkedIn": "https://www.linkedin.com/in/gracemuniak/"
+        },
+        {
+          "member": "Chris Gjuraj",
+          "linkedIn": "https://www.linkedin.com/in/cgjuraj/"
+        },
+        {
+          "member": "Nicolas Botia",
+          "linkedIn": "https://www.linkedin.com/in/nicolasbotia/"
+        },
+        {
+          "member": "Mohamed Yacoub",
+          "linkedIn": "https://www.linkedin.com/in/mohamed-yacoub-b38b09216/"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/3553530594?pwd=cFhyUTBwM0lBWEpUUCtDM0VmcTczZz09"
+    },
+    {
+      "id": 3,
+      "name": "Team Animal Shelter Manager",
+      "project": "Animal Shelter Manager",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "bgcolor": "#5BC0DE",
+      "thumbnail": "critter.png",
+      "members": [
+        {
+          "member": "Stacy Thompson",
+          "linkedIn": "https://www.linkedin.com/in/stacymthompson243/"
+        },
+        {
+          "member": "Laura Nazzaro",
+          "linkedIn": "https://www.linkedin.com/in/laura-nazzaro/"
+        },
+        {
+          "member": "Giovanni Marino",
+          "linkedIn": "https://www.linkedin.com/in/giovamarino/"
+        },
+        {
+          "member": "Collin O'Conner",
+          "linkedIn": "https://www.linkedin.com/in/collinoconner/"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/98334358083"
+    },
+    {
+      "id": 4,
+      "name": "Team Shared Shopping List",
+      "project": "Shared Shopping List",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "thumbnail": "grocer1.png",
+      "bgcolor": "#9d7dde",
+      "members": [
+        {
+          "member": "David Jones",
+          "linkedIn": "https://www.linkedin.com/in/dj51/"
+        },
+        {
+          "member": "William LaPlante",
+          "linkedIn": "https://www.linkedin.com/in/william-laplante-850896254/"
+        },
+        {
+          "member": "Dalena Nguyen",
+          "linkedIn": "https://www.linkedin.com/in/dalena-lee-nguyen/"
+        },
+        {
+          "member": "Brandon Yoder",
+          "linkedIn": "https://www.linkedin.com/in/brandon-yoder/"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/92866111394"
+    },
+    {
+      "id": 5,
+      "name": "Team Car Repair",
+      "project": "Car Repair",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "bgcolor": "#5EAAA8",
+      "thumbnail": "car.svg",
+      "members": [
+        {
+          "member": "Salih Durmic",
+          "linkedIn": "https://www.linkedin.com/in/salih-durmic/"
+        },
+        {
+          "member": "Krystian Graecia",
+          "linkedIn": "https://www.linkedin.com/in/krystian-garcia/"
+        },
+        {
+          "member": "Kurt Griebel",
+          "linkedIn": "https://www.linkedin.com/in/kurt-griebel/"
+        },
+        {
+          "member": "Jason Milby",
+          "linkedIn": "http://www.linkedin.com/in/jasonmilby"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/99341000342"
+    },
+    {
+      "id": 6,
+      "name": "Team Dream Life Yearly Planner",
+      "project": "Project Time Manager",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "thumbnail": "project1.png",
+      "bgcolor": "#F16120",
+      "members": [
+        {
+          "member": "Evan Schnieder",
+          "linkedIn": "https://www.linkedin.com/in/evanschneider-"
+        },
+        {
+          "member": "Jayson Paglow",
+          "linkedIn": "https://www.linkedin.com/in/jayson-paglow/"
+        },
+        {
+          "member": "Joe Hasson",
+          "linkedIn": "http://www.linkedin.com/in/joehassonjr"
+        },
+        {
+          "member": "Stephen Cha",
+          "linkedIn": "https://www.linkedin.com/in/stephencha98/"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/94358606555"
+    },
+    {
+      "id": 7,
+      "name": "Team Fan Band Connector",
+      "project": "Fan Band Connector",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "thumbnail": "fanband1.png",
+      "bgcolor": "#F16120",
+      "members": [
+        {
+          "member": "Josh Novak",
+          "linkedIn": "https://www.linkedin.com/in/job-paul/"
+        },
+        {
+          "member": "Job Paul",
+          "linkedIn": "https://www.linkedin.com/in/job-paul/"
+        },
+        {
+          "member": "Gianni St. Clair",
+          "linkedIn": "https://www.linkedin.com/in/gianni-st-clair/"
+        },
+        {
+          "member": "Kevin Zhang",
+          "linkedIn": "https://www.linkedin.com/in/kzhang58/"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/96474520717"
+    },
+    {
+      "id": 8,
+      "name": "VITRUM Recycle",
+      "project": "Glass Recycling App",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "thumbnail": "vitrum1.png",
+      "bgcolor": "#F16120",
+      "members": [
+        {
+          "member": "Alexis Horst",
+          "linkedIn": "https://www.linkedin.com/in/alexislhorst"
+        },
+        {
+          "member": "Matt Hosner",
+          "linkedIn": "https://www.linkedin.com/in/matthosner/"
+        },
+        {
+          "member": "Kubra Tapan",
+          "linkedIn": "https://www.linkedin.com/in/kubratapan/"
+        },
+        {
+          "member": "Greg Sabella",
+          "linkedIn": "https://www.linkedin.com/in/gregsabella/"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/95056884545"
+    },
+    {
+      "id": 9,
+      "name": "Team Tournament Hosting",
+      "project": "Tournament Hosting",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "thumbnail": "tournament.png",
+      "bgcolor": "#F16120",
+      "members": [
+        {
+          "member": "Steven Le",
+          "linkedIn": "https://www.linkedin.com/in/steven-n-le/"
+        },
+        {
+          "member": "James Moore",
+          "linkedIn": "https://www.linkedin.com/in/jamesandrewm/"
+        },
+        {
+          "member": "Chase Flowers",
+          "linkedIn": "https://www.linkedin.com/in/chasemflowers/"
+        },
+        {
+          "member": "Alec Mason",
+          "linkedIn": "https://www.linkedin.com/in/alecjmason/"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/95773143918"
+    },
+    {
+      "id": 10,
+      "name": "Team Workout Builder",
+      "project": "Workout Builder",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "thumbnail": "elevate1.png",
+      "bgcolor": "#F16120",
+      "members": [
+        {
+          "member": "Griffin East",
+          "linkedIn": "https://www.linkedin.com/in/griffineast/"
+        },
+        {
+          "member": "Angelo Stewart",
+          "linkedIn": "https://www.linkedin.com/in/angelostewart/"
+        },
+        {
+          "member": "Alec Choi",
+          "linkedIn": "https://www.linkedin.com/in/alechyunmookchoi44/"
+        },
+        {
+          "member": "Omaer Muttalib",
+          "linkedIn": "https://www.linkedin.com/in/omaermuttalib/"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/99774054752"
+    },
+    {
+      "id": 11,
+      "name": "Team Tech Fitness 1",
+      "project": "Tech Fitness 1",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "thumbnail": "tff1.png",
+      "bgcolor": "#F16120",
+      "members": [
+        {
+          "member": "Rodrell Green",
+          "linkedIn": "https://www.linkedin.com/in/rodrellgreen/"
+        },
+        {
+          "member": "Corey Stamper",
+          "linkedIn": "https://www.linkedin.com/in/corey-stamper/"
+        },
+        {
+          "member": "Justin Myers",
+          "linkedIn": "https://www.linkedin.com/in/justin-myers32"
+        },
+        {
+          "member": "Jake Pavkov",
+          "linkedIn": "https://www.linkedin.com/in/jake-c-pavkov"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/95426521099"
+    },
+    {
+      "id": 12,
+      "name": "Team Record Collection",
+      "project": "Record Collection App",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "thumbnail": "record1.png",
+      "bgcolor": "#F16120",
+      "members": [
+        {
+          "member": "Conor Parnell",
+          "linkedIn": "https://www.linkedin.com/in/conorparnell/"
+        },
+        {
+          "member": "Myrka Gonzalez",
+          "linkedIn": "https://www.linkedin.com/in/myrkagonzalez123/"
+        },
+        {
+          "member": "Dominic Petrucelli",
+          "linkedIn": "https://www.linkedin.com/in/dpetruccelli/"
+        },
+        {
+          "member": "Devin Doyle",
+          "linkedIn": "https://www.linkedin.com/in/devin-j-doyle"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/92035374605"
+    },
+    {
+      "id": 13,
+      "name": "Team Rent Roost",
+      "project": "Rental Property App",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "thumbnail": "Rental1.png",
+      "bgcolor": "#F16120",
+      "members": [
+        {
+          "member": "Tom Fitzpatrick",
+          "linkedIn": "https://www.linkedin.com/in/fitzpatricktom/"
+        },
+        {
+          "member": "Stephen Chalmers",
+          "linkedIn": "https://www.linkedin.com/in/s-chalmers/"
+        },
+        {
+          "member": "Nick Tsilikos",
+          "linkedIn": "https://www.linkedin.com/in/ntsilikos"
+        },
+        {
+          "member": "Desroy Farquharson",
+          "linkedIn": "https://www.linkedin.com/in/dfarqu/"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/92098357661"
+    },
+    {
+      "id": 14,
+      "name": "The TE Board Game",
+      "project": "Board Game App",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "thumbnail": "board.png",
+      "bgcolor": "#F16120",
+      "members": [
+        {
+          "member": "Jack Nelson",
+          "linkedIn": "https://www.linkedin.com/in/jackrnelson/"
+        },
+        {
+          "member": "Nicholas Scacchetti",
+          "linkedIn": "https://www.linkedin.com/in/nicholasscacchetti/"
+        },
+        {
+          "member": "Amanda Tomita",
+          "linkedIn": "https://www.linkedin.com/in/amanda-tomita/"
+        },
+        {
+          "member": "Ahmad Mahmoud",
+          "linkedIn": "https://www.linkedin.com/in/ahmadm05/"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/99049023505"
+    },
+    {
+      "id": 15,
+      "name": "Team eLearning",
+      "project": "eLearning App",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "thumbnail": "inquisit.png",
+      "bgcolor": "#F16120",
+      "members": [
+        {
+          "member": "Ivy Yang",
+          "linkedIn": "https://www.linkedin.com/in/xiaojie-yang-880618254/"
+        },
+        {
+          "member": "Brian Beam",
+          "linkedIn": "https://www.linkedin.com/in/brian-r-beam"
+        },
+        {
+          "member": "Kyoko Inagawa",
+          "linkedIn": "https://www.linkedin.com/in/kyoko-inagawa/"
+        },
+        {
+          "member": "Austin Smith",
+          "linkedIn": "https://www.linkedin.com/in/austin-clay-smith"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/99541562890"
+    },
+    {
+      "id": 16,
+      "name": "Team TE-Gram",
+      "project": "TE-Gram",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "thumbnail": "momentoApp.png",
+      "bgcolor": "#F16120",
+      "members": [
+        {
+          "member": "Hee (Sarah) Woo",
+          "linkedIn": "https://www.linkedin.com/in/heewwoo/"
+        },
+        {
+          "member": "Chelsea Mauldin",
+          "linkedIn": "http://linkedin.com/in/chelsea-mauldin"
+        },
+        {
+          "member": "Vanessa Reed",
+          "linkedIn": "https://www.linkedin.com/in/vanessa-j-reed"
+        },
+        {
+          "member": "Edward Momanyi",
+          "linkedIn": "https://www.linkedin.com/in/edward-momanyi/"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/96832940200"
+    },
+    {
+      "id": 17,
+      "name": "Team Vortext",
+      "project": "Message Board App",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "thumbnail": "vortex.png",
+      "bgcolor": "#F16120",
+      "members": [
+        {
+          "member": "J. Michael Weber",
+          "linkedIn": "https://www.linkedin.com/in/j-m-weber/"
+        },
+        {
+          "member": "Michael Krut",
+          "linkedIn": "https://www.linkedin.com/in/michael-krut/"
+        },
+        {
+          "member": "Sharen Torres",
+          "linkedIn": "https://www.linkedin.com/in/sharent/"
+        },
+        {
+          "member": "Nick McConnell",
+          "linkedIn": "https://www.linkedin.com/in/nick-mcconnell-tech/"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/92387734381"
+    },
+    {
+      "id": 18,
+      "name": "Team Turntable Entertainment",
+      "project": "Party Playlist App",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "thumbnail": "turntable1.png",
+      "bgcolor": "#F16120",
+      "members": [
+        {
+          "member": "Bayram Ljujkovic",
+          "linkedIn": "https://www.linkedin.com/in/bayraml/"
+        },
+        {
+          "member": "Eric Vazquez",
+          "linkedIn": "https://www.linkedin.com/in/v4vazquez/"
+        },
+        {
+          "member": "Moussa Sy",
+          "linkedIn": "https://www.linkedin.com/in/sy-moussa/"
+        },
+        {
+          "member": "Molly Morales",
+          "linkedIn": "https://www.linkedin.com/in/molly-morales/"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/99773024248"
+    },
+    {
+      "id": 19,
+      "name": "Meal Mate",
+      "project": "Tech Fitness 2",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "thumbnail": "mm2.png",
+      "bgcolor": "#F16120",
+      "members": [
+        {
+          "member": "Rachel Leonard",
+          "linkedIn": "https://www.linkedin.com/in/rachel-c-leonard/"
+        },
+        {
+          "member": "Masfen Osman",
+          "linkedIn": "https://www.linkedin.com/in/masfen-osman-08a063139/"
+        },
+        {
+          "member": "Loovensky Louis",
+          "linkedIn": "https://www.linkedin.com/in/loovenskylouis/"
+        },
+        {
+          "member": "Shane Smith",
+          "linkedIn": "https://www.linkedin.com/in/shanesmith34/"
+        }
+      ],
+      "quickLink": "https://techelevator.zoom.us/j/95405103420"
+    }
+  ]
+}

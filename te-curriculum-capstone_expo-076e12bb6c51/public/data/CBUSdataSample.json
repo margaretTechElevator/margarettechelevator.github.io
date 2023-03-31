@@ -1,0 +1,391 @@
+{
+  "location": "CBUS",
+  "version": "2.08",
+  "topTitleLine": "Final Capstone Expo  - Columbus",
+  "secondTitleLine": "Friday, April 22, 2022 12:30 PM - 2:00 PM EDT",
+  "showVideo": true,
+  "mainVideo": "https://meet.jit.si/TECapstoneExpoCBUS",
+  "randomMessage": "The teams shown below are in random order. Reloading or refreshing the page will change the order.",
+  "instructions": [
+    {
+      "line": "Click 'Join Meeting' on the video to the left or above to speak with a Tech Elevator representative for questions/feedback."
+    },
+    {
+      "line": "To access on your mobile device, in the window above, scroll down and select 'Launch in Web'"
+    },
+    {
+      "line": " Below you can review all of the Capstone Projects and access a live demo of each team's web application by clicking their 'Visit' link"
+    },
+    {
+      "line": " Return to this page at any time to speak with a representative (refresh the webpage if the video isn't available)"
+    }
+  ],
+  "tipsHeading": "Capstone Etiquette",
+  "tips": [
+    {
+      "line": "Capstone teams will begin a new demo every 10-minutes (roughly)"
+    },
+    {
+      "line": "If you join in the middle of a demo, please introduce yourself via CHAT"
+    },
+    {
+      "line": "Turn your video ON and MUTE your audio when you're not speaking"
+    },
+    {
+      "line": "Capstone Teams appreciate questions/feedback so please engage during the demo"
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "Team ALPHA",
+      "project": "projectName",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "bgcolor": "#8CC63F",
+      "thumbnail": "TEmark.jpg",
+      "members": [
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TECapstoneExpoCBUS-TeamAlpha"
+    },
+    {
+      "id": 2,
+      "name": "Team BRAVO",
+      "project": "projectName",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "bgcolor": "#8CC63F",
+      "thumbnail": "TEmark.jpg",
+      "members": [
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TECapstoneExpoCBUS-TeamBravo"
+    },
+    {
+      "id": 3,
+      "name": "Team CHARLIE",
+      "project": "projectName",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "bgcolor": "#8CC63F",
+      "thumbnail": "TEmark.jpg",
+      "members": [
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TECapstoneExpoCBUS-TeamCharlie"
+    },
+    {
+      "id": 4,
+      "name": "Team DELTA",
+      "project": "projectName",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "bgcolor": "#8CC63F",
+      "thumbnail": "TEmark.jpg",
+      "members": [
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TECapstoneExpoCBUS-TeamDelta"
+    },
+    {
+      "id": 5,
+      "name": "Team ECHO",
+      "project": "projectName",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "bgcolor": "#8CC63F",
+      "thumbnail": "TEmark.jpg",
+      "members": [
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TECapstoneExpoCBUS-TeamEcho"
+    },
+    {
+      "id": 6,
+      "name": "Team FOXTROT",
+      "project": "projectName",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "bgcolor": "#8CC63F",
+      "thumbnail": "TEmark.jpg",
+      "members": [
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TECapstoneExpoCBUS-TeamFoxtrot"
+    },
+    {
+      "id": 7,
+      "name": "Team GOLF",
+      "project": "projectName",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "bgcolor": "#8CC63F",
+      "thumbnail": "TEmark.jpg",
+      "members": [
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TECapstoneExpoCBUS-TeamGolf"
+    },
+    {
+      "id": 8,
+      "name": "Team HOTEL",
+      "project": "projectName",
+      "technologies": "CSS, HTML, Java, JavaScript, PostgreSQL, Spring, Vue.js",
+      "bgcolor": "#8CC63F",
+      "thumbnail": "TEmark.jpg",
+      "members": [
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TECapstoneExpoCBUS-TeamHotel"
+    },
+    {
+      "id": 9,
+      "name": "Team INDIA",
+      "project": "projectName",
+      "technologies": "CSS, HTML, C#, JavaScript, ASP .NET, SQL Server, Vue.js",
+      "bgcolor": "#8CC63F",
+      "thumbnail": "TEmark.jpg",
+      "members": [
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TECapstoneExpoCBUS-TeamIndia"
+    },
+    {
+      "id": 10,
+      "name": "Team JULIETT",
+      "project": "projectName",
+      "technologies": "CSS, HTML, C#, JavaScript, ASP .NET, SQL Server, Vue.js",
+      "bgcolor": "#8CC63F",
+      "thumbnail": "TEmark.jpg",
+      "members": [
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TECapstoneExpoCBUS-TeamJuliett"
+    },
+    {
+      "id": 11,
+      "name": "Team KILO",
+      "project": "projectName",
+      "technologies": "CSS, HTML, C#, JavaScript, ASP .NET, SQL Server, Vue.js",
+      "bgcolor": "#8CC63F",
+      "thumbnail": "TEmark.jpg",
+      "members": [
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TECapstoneExpoCBUS-TeamKilo"
+    },
+    {
+      "id": 12,
+      "name": "Team LIMA",
+      "project": "projectName",
+      "technologies": "CSS, HTML, C#, JavaScript, ASP .NET, SQL Server, Vue.js",
+      "bgcolor": "#8CC63F",
+      "thumbnail": "TEmark.jpg",
+      "members": [
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TECapstoneExpoCBUS-TeamLima"
+    },
+    {
+      "id": 13,
+      "name": "Team MIKE",
+      "project": "projectName",
+      "technologies": "CSS, HTML, C#, JavaScript, ASP .NET, SQL Server, Vue.js",
+      "bgcolor": "#8CC63F",
+      "thumbnail": "TEmark.jpg",
+      "members": [
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        },
+        {
+          "member": "sampleStudent",
+          "linkedIn": "http://google.com"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TECapstoneExpoCBUS-TeamMike"
+    }
+  ]
+}

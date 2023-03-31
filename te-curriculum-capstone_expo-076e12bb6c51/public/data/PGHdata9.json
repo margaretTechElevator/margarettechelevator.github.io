@@ -1,0 +1,346 @@
+{
+  "version": "9.00",
+  "location": "PGH",
+  "topTitleLine": "Final Capstones Expo - Pittsburgh Cohort[9]",
+  "secondTitleLine": "August 13, 2021  |  12:00 - 1:00 PM (EDT)",
+  "mainVideo": "https://meet.jit.si/CapstoneExpoPGH",
+  "randomMessage": "The teams shown below are in random order. Reloading or refreshing the page will change the order.",
+  "instructions": [
+    {
+      "line": "To access on your mobile device, in the window above, scroll down and select 'Launch in Web'"
+    },
+    {
+      "line": " Below you can review all of the Capstone Projects and access a live demo of each team's web application by clicking their 'Visit' link"
+    },
+    {
+      "line": " Return to this page at any time to speak with a representative (link to Zoom above)"
+    }
+  ],
+  "tipsHeading": "Capstone Etiquette",
+  "tips": [
+    {
+      "line": "Capstone teams will begin a new demo every 10-minutes (roughly)"
+    },
+    {
+      "line": "If you join in the middle of a demo, please introduce yourself via CHAT"
+    },
+    {
+      "line": "Turn your video ON and MUTE your audio when you're not speaking"
+    },
+    {
+      "line": "Capstone Teams appreciate questions/feedback so please engage during the demo"
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "PGH_Java_Team0",
+      "project": "Super Stonks",
+      "technologies": "Java, Vue.js",
+      "thumbnail": "pgh9-super-stonks.png",
+      "members": [
+        {
+          "member": "Shyngis Zhalitov",
+          "linkedIn": "https://www.linkedin.com/in/shyngis-zhalitov/"
+        },
+        {
+          "member": "Jordan Ubaldo",
+          "linkedIn": "https://www.linkedin.com/in/jordanubaldo/"
+        },
+        {
+          "member": "Jonathan Petrashune",
+          "linkedIn": "https://www.linkedin.com/in/jonathanpetrashune/"
+        },
+        {
+          "member": "Michael Buckner",
+          "linkedIn": "https://www.linkedin.com/in/michael-buckner-415b33176"
+        },
+        {
+          "member": "Yuan Zhu",
+          "linkedIn": "https://www.linkedin.com/in/yuan-zhu-60b828211"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/PGH_Java_Team0"
+    },
+    {
+      "id": 2,
+      "name": "PGH_Java_Team1",
+      "project": "Pet PlayPals",
+      "technologies": "Java, Vue.js",
+      "thumbnail": "pgh9-pet-playpals.png",
+      "members": [
+        {
+          "member": "Ashley Necciai",
+          "linkedIn": "https://www.linkedin.com/in/ashley-necciai/"
+        },
+        {
+          "member": "Paige Tavormina",
+          "linkedIn": "https://www.linkedin.com/in/paige-tavormina/"
+        },
+        {
+          "member": "Makenzi Baker",
+          "linkedIn": "https://www.linkedin.com/in/makenzi-baker-8a2459211"
+        },
+        {
+          "member": "Jasmine Graber",
+          "linkedIn": "https://www.linkedin.com/in/jasminegraber/"
+        },
+        {
+          "member": "Cassandra Corrie",
+          "linkedIn": "https://www.linkedin.com/in/cassandra-corrie/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/PGH_Java_Team1"
+    },
+    {
+      "id": 3,
+      "name": "KARES",
+      "project": "meal TimE",
+      "technologies": "Java, Vue.js, CSS, Bootstrap, SQL, Microsoft Paint",
+      "thumbnail": "pgh9-meal-TimE.png",
+      "members": [
+      {
+        "member": "Kristofer Disharoon",
+        "linkedIn": "https://www.linkedin.com/in/kristofer-disharoon/"
+      },
+      {
+        "member": "Shannon Griffith",
+        "linkedIn": "https://www.linkedin.com/in/shannon-griffith91/"
+      },
+      {
+        "member": "Ryan Godman",
+        "linkedIn": "https://www.linkedin.com/in/ryan-godman/"
+      },
+      {
+        "member": "Ezra Saywitz",
+        "linkedIn": "https://www.linkedin.com/in/esaywitz/"
+      },
+      {
+        "member": "Andrew Jadot",
+        "linkedIn": "https://www.linkedin.com/in/andrew-jadot/"
+      }
+      ],
+      "quickLink": "https://meet.jit.si/PGH_Java_Team2"
+    },
+    {
+      "id": 4,
+      "name": "PGH_Java_Team3",
+      "project": "Pittsburgh Pothole Tracker",
+      "technologies": "Java, Vue.js, Here Maps API, AWS RDS, Heroku",
+      "thumbnail": "pgh9-pittsburgh-pothole-tracker.png",
+      "members": [
+        {
+          "member": "Loreal Cryder",
+          "linkedIn": "https://www.linkedin.com/in/loreal-cryder"
+        },
+        {
+          "member": "Joshua Olsen",
+          "linkedIn": "https://www.linkedin.com/in/geojosh/"
+        },
+        {
+          "member": "Brandon Dunlap",
+          "linkedIn": "https://www.linkedin.com/in/brandon-c-dunlap/"
+        },
+        {
+          "member": "Josh Bayer",
+          "linkedIn": "https://www.linkedin.com/in/bayerjosh/"
+        },
+        {
+          "member": "Richard Colosimo",
+          "linkedIn": "https://www.linkedin.com/in/richard-colosimo-7288b2126/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/PGH_Java_Team3"
+    },
+    {
+      "id": 5,
+      "name": "FOREsight",
+      "project": "Golf Tracker",
+      "technologies": "Java, Spring Boot, Vue.js, Bulma, SQL",
+      "thumbnail": "pgh9-foresight.png",
+      "members": [
+        {
+          "member": "James Cope",
+          "linkedIn": "http://www.linkedin.com/in/james-cope26"
+        },
+        {
+          "member": "Owen Chamberlin",
+          "linkedIn": "https://www.linkedin.com/in/owen-chamberlin-450766211"
+        },
+        {
+          "member": "Chad Pavlecic",
+          "linkedIn": "https://www.linkedin.com/in/chadpavlecic/"
+        },
+        {
+          "member": "Brandon Grumski",
+          "linkedIn": "https://www.linkedin.com/in/brandon-grumski/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/PGH_Java_Team4"
+    },
+    {
+      "id": 6,
+      "name": "Brew Crew",
+      "project": "Brewery Finder",
+      "technologies": "Java, Vue.js, Luxon",
+      "thumbnail": "pgh9-brewery-finder.png",
+      "members": [
+        {
+          "member": "Simrath Randhawa",
+          "linkedIn": "https://www.linkedin.com/in/simrath-randhawa-4642a3a8/"
+        },
+        {
+          "member": "Danielle Walendziewicz",
+          "linkedIn": "https://www.linkedin.com/in/danielle-walendziewicz"
+        },
+        {
+          "member": "Stefan Krut",
+          "linkedIn": "https://www.linkedin.com/in/stefankrut/"
+        },
+        {
+          "member": "Diana Aschner",
+          "linkedIn": "https://www.linkedin.com/in/dianaaschner/"
+        },
+        {
+          "member": "Brandon Czekalski",
+          "linkedIn": "https://www.linkedin.com/in/brandon-czekalski"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/PGH_Java_Team5"
+    },
+    {
+      "id": 7,
+      "name": "CutoffJortsCodeCrew™",
+      "project": "Chicken Tinder",
+      "technologies": "Java, Vue.js",
+      "thumbnail": "pgh9-chicken-tinder.png",
+      "members": [
+        {
+          "member": "Sasan Sotoodehfar",
+          "linkedIn": "https://www.linkedin.com/in/sasan1200"
+        },
+        {
+          "member": "Ayodeji Akinbode",
+          "linkedIn": "https://www.linkedin.com/in/ayodeji-akinbode-a5276020b/"
+        },
+        {
+          "member": "Noel Hansen",
+          "linkedIn": "https://www.linkedin.com/in/noel-hansen"
+        },
+        {
+          "member": "Eric Krouse",
+          "linkedIn": "https://www.linkedin.com/in/erickrouse/"
+        },
+        {
+          "member": "Michael Robert Marks",
+          "linkedIn": "https://www.linkedin.com/in/mrobertmarks/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/PGH_Java_Team6"
+    },
+    {
+      "id": 8,
+      "name": "PGH Calorie Counters",
+      "project": "PGH Tech Fitness Pal",
+      "technologies": "Java, Vue.js",
+      "thumbnail": "pgh9-pgh-tech-fitness-pal.jpg",
+      "members": [
+        {
+          "member": "Kaylan Barger",
+          "linkedIn": "https://www.linkedin.com/in/kaylanbarger/"
+        },
+        {
+          "member": "Connor Carpenter",
+          "linkedIn": "https://www.linkedin.com/in/connor-carpenter1/"
+        },
+        {
+          "member": "Dahlia Rizk",
+          "linkedIn": "https://www.linkedin.com/in/dahlia--rizk/"
+        },
+        {
+          "member": "LaSean Wilkerson",
+          "linkedIn": "https://www.linkedin.com/in/lasean-wilkerson-3154391a4/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/PGH_Java_Team7"
+    },
+    {
+      "id": 9,
+      "name": "Comics Assemble",
+      "project": "Comics Assemble!",
+      "thumbnail": "pgh9-comics-assemble.png",
+      "technologies": "C#, SQL, Vue.js",
+      "members": [     
+        {
+          "member": "Dylan Underwood",
+          "linkedIn": "https://www.linkedin.com/in/dunderwood03312001/"
+        },
+        {
+          "member": "Xavier Cheeks",
+          "linkedIn": "https://www.linkedin.com/in/xaviercheeks/"
+        },
+        {
+          "member": "Miller Overmoyer",
+          "linkedIn": "https://www.linkedin.com/in/miller-overmoyer-143974149/"
+        },
+        {
+          "member": "Nicholas Cowoski",
+          "linkedIn": "https://www.linkedin.com/in/nick-cowoski/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/PGH_DotNet_Team0"
+    },
+    {
+      "id": 10,
+      "name": "Runtime Terror",
+      "project": "Quiz-liTE",
+      "technologies": "C#, Vue.js, Bulma, SQL Server",
+      "thumbnail": "pgh9-quiz-lite.png",
+      "members": [     
+        {
+          "member": "Jonathan Fleet",
+          "linkedIn": "https://www.linkedin.com/in/jonfleet8"
+        },
+        {
+          "member": "Paul Amy",
+          "linkedIn": "https://www.linkedin.com/in/paulamy/"
+        },
+        {
+          "member": "Julian Dave",
+          "linkedIn": "https://www.linkedin.com/in/julian-dave/"
+        },
+        {
+          "member": "Ryan Monson",
+          "linkedIn": "https://www.linkedin.com/in/ryandmonson/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/PGH_DotNet_Team1"
+    },
+    {
+      "id": 11,
+      "name": "The S3 Bucketeers",
+      "project": "TEgram",
+      "technologies": "C#, Vue.js, Entity Framework, Azure, AWS S3",
+      "thumbnail": "pgh-9-pgh-tech-fitness-pal.jpg",
+      "members": [     
+        {
+          "member": "Stephen Mick",
+          "linkedIn": "https://www.linkedin.com/in/stephen-a-mick/"
+        },
+        {
+          "member": "Amber Wolfe",
+          "linkedIn": "https://www.linkedin.com/in/amber-wolfe-developer/"
+        },
+        {
+          "member": "Kacie Greenlief",
+          "linkedIn": "https://www.linkedin.com/in/kacie-greenlief/"
+        },
+        {
+          "member": "Paul Kirby",
+          "linkedIn": "https://www.linkedin.com/in/paulhkirby/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/PGH_DotNet_Team2"
+    }
+  ]
+}

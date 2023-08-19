@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     document.getElementById("dogBtn").addEventListener('click', displayDoggo);
 
-    document.getElementById('hotelBtn').addEventListener('click', displayHotels);
+    // document.getElementById('hotelBtn').addEventListener('click', displayHotels);
 
     document.getElementById('currencyBtn').addEventListener('click', displayRates);
 });

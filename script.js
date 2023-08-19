@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function displayRates() {
+    const table = document.querySelector("table");
     fetch("https://api.exchangerate.host/latest?base=USD")
         .then((response) => response.json())
         .then((data) => {
@@ -15,7 +16,18 @@ function displayRates() {
             let rates = data.rates;
             for (key in rates) {
                 const value = rates[key];
-                console.log(`${key} - ${value}`);
+                if (value > 100.00) {
+                    const row = document.createElement('tr');
+                    const tdKey = document.createElement('td');
+                    const tdValue = document.createElement('td');
+                    tdKey.innerText = key;
+                    tdValue.innerText = value.toFixed(2);
+                    // tdKey.appendChild(document.createTextNode(key));
+                    // tdValue.appendChild(document.createTextNode(value));
+                    row.appendChild(tdKey);
+                    row.appendChild(tdValue);
+                    table.appendChild(row);
+                }
 
             }
         })
